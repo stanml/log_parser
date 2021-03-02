@@ -1,0 +1,8 @@
+# Ignore rubocop config
+.rubocop.yml
+
+# Ignore test data
+webserver.log
+
+# Ignore DS_Store
+.DS_Store
